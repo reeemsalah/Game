@@ -1,4 +1,4 @@
-package model.intrastructure;
+package model.infrastructure;
 
 import java.util.ArrayList;
 
