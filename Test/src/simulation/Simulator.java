@@ -2,7 +2,7 @@ package simulation;
 
 import java.util.ArrayList;
 
-import model.disaster.Disaster;
+import model.disasters.Disaster;
 import model.infrastructure.ResidentialBuilding;
 
 public class Simulator {

@@ -1,4 +1,4 @@
-package model.disaster;
+package model.disasters;
 
 public class GasLeak extends Disaster{
 
