@@ -2,7 +2,7 @@ package model.infrastructure;
 
 import java.util.ArrayList;
 
-import model.disaster.Disaster;
+import model.disasters.Disaster;
 import simulation.Address;
 import simulation.Rescuable;
 import simulation.Simulatable;

@@ -1,4 +1,4 @@
-package model.disaster;
+package model.disasters;
 
 import model.infrastructure.ResidentialBuilding;
 
